@@ -1,0 +1,16 @@
+C:\Users\Ali\source\repos\ArrayTask\ArrayTask\bin\Debug\net5.0\ArrayTask.exe
+C:\Users\Ali\source\repos\ArrayTask\ArrayTask\bin\Debug\net5.0\ArrayTask.deps.json
+C:\Users\Ali\source\repos\ArrayTask\ArrayTask\bin\Debug\net5.0\ArrayTask.runtimeconfig.json
+C:\Users\Ali\source\repos\ArrayTask\ArrayTask\bin\Debug\net5.0\ArrayTask.runtimeconfig.dev.json
+C:\Users\Ali\source\repos\ArrayTask\ArrayTask\bin\Debug\net5.0\ArrayTask.dll
+C:\Users\Ali\source\repos\ArrayTask\ArrayTask\bin\Debug\net5.0\ArrayTask.pdb
+C:\Users\Ali\source\repos\ArrayTask\ArrayTask\obj\Debug\net5.0\ArrayTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\source\repos\ArrayTask\ArrayTask\obj\Debug\net5.0\ArrayTask.AssemblyInfoInputs.cache
+C:\Users\Ali\source\repos\ArrayTask\ArrayTask\obj\Debug\net5.0\ArrayTask.AssemblyInfo.cs
+C:\Users\Ali\source\repos\ArrayTask\ArrayTask\obj\Debug\net5.0\ArrayTask.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\ArrayTask\ArrayTask\obj\Debug\net5.0\ArrayTask.sourcelink.json
+C:\Users\Ali\source\repos\ArrayTask\ArrayTask\obj\Debug\net5.0\ArrayTask.dll
+C:\Users\Ali\source\repos\ArrayTask\ArrayTask\obj\Debug\net5.0\refint\ArrayTask.dll
+C:\Users\Ali\source\repos\ArrayTask\ArrayTask\obj\Debug\net5.0\ArrayTask.pdb
+C:\Users\Ali\source\repos\ArrayTask\ArrayTask\obj\Debug\net5.0\ArrayTask.genruntimeconfig.cache
+C:\Users\Ali\source\repos\ArrayTask\ArrayTask\obj\Debug\net5.0\ref\ArrayTask.dll
